@@ -5,14 +5,14 @@ A project with a focus on smart cities, assessing accessibility in Milan on top 
 The files here present work synergically.  
 The structure of this repository is as follows:  
 |- .README.txt  
-|- data/  
+|- data.zip/  
 |   |- raw/  
 |   |   |- OpenData/  
 |   |   |- OSM/  
 |   |   |- overture/  
 |   |- preprocessed/  
 |   |   |- isochrones/  
-|- figures/  
+|- figures.zip/  
 |- 0_sourcecheck.ipynb  
 |- 1_preprocessing.ipynb  
 |- 2_exploration_visualization.ipynib  
@@ -25,9 +25,10 @@ The structure of this repository is as follows:
 The notebooks here presented already show the final results presented in the report; however for the sake of reproducibility here are the steps to follow.
 
 1. Download the project folder.
-2. Run notebooks sequentially; they will automatically call necessary .py files.
-3. This will populate data and figures folders.
-4. Results can be inspected in the output cells of the notebooks and in the folder figures.
+2. Unzip data and figures folders.
+3. Run notebooks sequentially; they will automatically call necessary .py files.
+4. This will populate data and figures folders.
+5. Results can be inspected in the output cells of the notebooks and in the folder figures.
 
 ## Authors 👩🏻‍💻
 - Chiara Genuardi - c.genuardi1@campus.unimib.it
