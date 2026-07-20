@@ -21,6 +21,8 @@ The structure of this repository is as follows:
 |- download_overture_milano.py  
 |- isochrones.py  
 
+*Please note* that the dataset of Piazze Aperte was made from scratch by the authors using as source Comune di Milano's official report.
+
 ## How to Use the Project 🔍
 The notebooks here presented already show the final results presented in the report; however for the sake of reproducibility here are the steps to follow.
 
