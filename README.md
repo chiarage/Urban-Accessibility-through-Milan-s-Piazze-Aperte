@@ -2,24 +2,24 @@
 A project with a focus on smart cities, assessing accessibility in Milan on top of the project Piazze Aperte.
 
 ## File structure 👈
-The files here present work synergically.
-The structure of this repository is as follows:
-|- .README.txt
-|- data/
-   |- raw/
-   |   |- OpenData/
-   |   |- OSM/
-   |   |- overture/
-   |- preprocessed/
-   |   |- isochrones/
-|- figures/
-|- 0_sourcecheck.ipynb
-|- 1_preprocessing.ipynb
-|- 2_exploration_visualization.ipynib
-|- 3_isochrones.ipynb
-|- 4_multiindex.ipynb
-|- download_overture_milano.py
-|- isochrones.py
+The files here present work synergically.  
+The structure of this repository is as follows:  
+|- .README.txt  
+|- data/  
+   |- raw/  
+   |   |- OpenData/  
+   |   |- OSM/  
+   |   |- overture/  
+   |- preprocessed/  
+   |   |- isochrones/  
+|- figures/  
+|- 0_sourcecheck.ipynb  
+|- 1_preprocessing.ipynb  
+|- 2_exploration_visualization.ipynib  
+|- 3_isochrones.ipynb  
+|- 4_multiindex.ipynb  
+|- download_overture_milano.py  
+|- isochrones.py  
 
 ## How to Use the Project 🔍
 The notebooks here presented already show the final results presented in the report; however for the sake of reproducibility here are the steps to follow.
