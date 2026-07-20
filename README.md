@@ -6,12 +6,12 @@ The files here present work synergically.
 The structure of this repository is as follows:  
 |- .README.txt  
 |- data/  
-   |- raw/  
-   |   |- OpenData/  
-   |   |- OSM/  
-   |   |- overture/  
-   |- preprocessed/  
-   |   |- isochrones/  
+|   |- raw/  
+|   |   |- OpenData/  
+|   |   |- OSM/  
+|   |   |- overture/  
+|   |- preprocessed/  
+|   |   |- isochrones/  
 |- figures/  
 |- 0_sourcecheck.ipynb  
 |- 1_preprocessing.ipynb  
